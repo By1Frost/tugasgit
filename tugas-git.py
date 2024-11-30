@@ -1,5 +1,4 @@
 #tugasgit-at06
-#tugasgit-at07 baru
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
