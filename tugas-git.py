@@ -1,5 +1,5 @@
-#tugasgit-at07 baru
-data_panen = {
+#tugasgit-at06
+data_panen = { #tugasgit-at07 baru
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
         'hasil_panen': {
